@@ -10,5 +10,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include=".vscode\" />
+    <Folder Include="src\api\WeatherForecast\" />
+    <Folder Include="src\config\" />
   </ItemGroup>
 </Project>
